@@ -1,0 +1,13 @@
+D:\Zad3\Zad3\bin\Debug\Zad3.exe.config
+D:\Zad3\Zad3\bin\Debug\Zad3.exe
+D:\Zad3\Zad3\bin\Debug\Zad3.pdb
+D:\Zad3\Zad3\obj\Debug\Zad3.csprojAssemblyReference.cache
+D:\Zad3\Zad3\obj\Debug\Zad3.csproj.CoreCompileInputs.cache
+D:\Zad3\Zad3\obj\Debug\Zad3.exe
+D:\Zad3\Zad3\obj\Debug\Zad3.pdb
+D:\Zad3\Zad3\bin\Debug\SHA3.dll
+D:\Zad3\Zad3\bin\Debug\SHA3.Net.dll
+D:\Zad3\Zad3\bin\Debug\SHA3Managed.dll
+D:\Zad3\Zad3\bin\Debug\SHA3.pdb
+D:\Zad3\Zad3\bin\Debug\SHA3Managed.pdb
+D:\Zad3\Zad3\obj\Debug\Zad3.csproj.CopyComplete
